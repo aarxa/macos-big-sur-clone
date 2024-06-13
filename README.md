@@ -2,6 +2,10 @@
 
 A macOS desktop clone. I created this project out of fascination for the Mac/Apple desktop UI and wanted to try to replicate it as closely as possible, even with the dynamic dock behavior.
 
+## Live Demo 
+
+https://macos-aarxa.netlify.app 
+
 ## ⚡ Technologies
 
 - `Vite`
@@ -27,9 +31,6 @@ Start by adding an introductory loading screen, like the one you see on a Mac wi
 ## 🎥 Demo Image
 <img width="1851" alt="Screenshot 2024-06-12 at 6 11 14 PM" src="https://github.com/aarxa/macos-big-sur-clone/assets/113505509/faa03394-f91c-4098-a270-f78ba19a059c">
 <img width="1985" alt="Screenshot 2024-06-12 at 6 08 52 PM" src="https://github.com/aarxa/macos-big-sur-clone/assets/113505509/0e42477a-86a9-4ee6-b85b-4649ee412fa6">
-
-## Live Demo 
-
 
 ## 🚦 Running the Project
 
