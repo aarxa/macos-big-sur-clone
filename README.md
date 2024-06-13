@@ -24,10 +24,11 @@ I began by gathering all the necessary images for the dock and wallpaper. Then, 
 
 Start by adding an introductory loading screen, like the one you see on a Mac with the progress bar and Apple's logo. To make this project even better, think about making features like the calculator and calendar docks actually work. In other words, try to make your project function just like the real macOS desktop.
 
-## 🎥 Demo/Preview
+## 🎥 Demo Image
+<img width="1851" alt="Screenshot 2024-06-12 at 6 11 14 PM" src="https://github.com/aarxa/macos-big-sur-clone/assets/113505509/faa03394-f91c-4098-a270-f78ba19a059c">
+<img width="1985" alt="Screenshot 2024-06-12 at 6 08 52 PM" src="https://github.com/aarxa/macos-big-sur-clone/assets/113505509/0e42477a-86a9-4ee6-b85b-4649ee412fa6">
 
-<img src="https://github.com/mirayatech/macos-big-sur-clone/assets/71933266/94d7f9b9-ef18-4346-b90f-b92fbc12669a" width="100%"/>
-
+## Live Demo 
 
 
 ## 🚦 Running the Project
@@ -38,6 +39,4 @@ To run the project in your local environment, follow these steps:
 2. Navigate to the project directory and run `npm install` or `yarn` to install the required dependencies.
 3. Start the project with `npm run dev` or `yarn dev`.
 4. Open http://localhost:5173 (or the address displayed in your console) in your web browser to view the application.
-# macos-big-sur-clone-main
-# macos-big-sur-clone-main
-# macos-big-sur-clone-main
+
